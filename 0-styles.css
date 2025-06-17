@@ -249,10 +249,10 @@ body {
 }
 
 form {
-  flex-direction: column;
+  
 
   margin: 0 auto;
-  max-width: 50%;
+  max-width: 60%;
   margin-top: 8rem;
 }
 form h3 {
